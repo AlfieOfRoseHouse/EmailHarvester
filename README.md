@@ -6,11 +6,11 @@ This Python script scrapes publicly available websites based on a search query a
 
 **-- How it works --**
 
-- Uses Google search to find pages related to a query
+- Uses _DuckDuckGo_ search to find pages related to a query
 - Follows links, scrapes page text
 - Extracts email addresses with regex
 
---
+**--**
 
 **-- Usage --**
 
@@ -23,10 +23,10 @@ Then input a query, eg:
 "@cam.ac.uk" site:cam.ac.uk
 ```
 
---
+**--**
 
 **-- Return --**
 
 This will return a series of found email addresses
 
---
+**--**
