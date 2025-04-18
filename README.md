@@ -2,9 +2,9 @@
 
 Coding Language: Python | Category: OSINT Tool | Difficulty: 1
 
-This Python script scrapes publicly available websites based on a search query and extracts any email addresses it finds. Inspired by digital reconnaissance tactics, this tool is designed for ethical, educational purposes.
+This Python script scrapes publicly available websites based on a search query and extracts any email addresses it finds. This tool is inspired by digital reconnaissance tactics and is designed for ethical and educational purposes only!
 
-**-- How it works --
+**-- How it works -- **
 
 - Uses Google search to find pages related to a query
 - Follows links, scrapes page text
@@ -12,18 +12,20 @@ This Python script scrapes publicly available websites based on a search query a
 
 --
 
-**-- Usage --
+**-- Usage -- **
 
 Run the code:
 ```bash
 python3 emailHarvester.py
 ```
-Then input a query eg: 
->"@cam.ac.uk" site:cam.ac.uk
+Then input a query, eg: 
+```bash
+"@cam.ac.uk" site:cam.ac.uk
+```
 
 --
 
-**-- Return --
+**-- Return -- **
 
 This will return a series of found email addresses
 
