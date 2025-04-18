@@ -30,3 +30,6 @@ Then input a query, eg:
 This will return a series of found email addresses
 
 **--**
+
+> Built with a keen eye for digital shadows and open-source whispers
+> [Return to Portfolio](../index.html)
